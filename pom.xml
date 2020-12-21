@@ -62,13 +62,13 @@
                 <configuration>
                     <rules>
                         <rule>
-                            <limites>
-                                <limite>
+                            <limits>
+                                <limit>
                                     <counter>BRANCH</counter>
                                     <value>COVEREDRATIO</value>
                                     <minimum>100%</minimum>
-                                </limite>
-                            </limites>
+                                </limit>
+                            </limits>
                         </rule>
                     </rules>
                 </configuration>
